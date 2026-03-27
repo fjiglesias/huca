@@ -1,3 +1,3 @@
-# HUCA Streamlit App
+# huca
 
 Aplicación para análisis de datos del HUCA.
